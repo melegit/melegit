@@ -2,7 +2,7 @@
 
 - 🌱 Actualmente estoy aprendiendo sobre Corrutinas, Flows y Jetpack Compose
 
-- 📫 How to reach me: meleappdev@gmail.com
+- 📫 email de contacto: meleappdev@gmail.com
 - 📍 [LinkedIn](https://www.linkedin.com/in/antoniofernandezfo/)
 
 
